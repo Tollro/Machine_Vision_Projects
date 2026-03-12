@@ -1,0 +1,9 @@
+/home/vboxuser/WorkSpace/Machine_Vision_Course/Qt_Projects/1st_Projects/show_image/build/Desktop_Qt_6_9_3-Debug/CMakeFiles/show_image.dir
+/home/vboxuser/WorkSpace/Machine_Vision_Course/Qt_Projects/1st_Projects/show_image/build/Desktop_Qt_6_9_3-Debug/CMakeFiles/edit_cache.dir
+/home/vboxuser/WorkSpace/Machine_Vision_Course/Qt_Projects/1st_Projects/show_image/build/Desktop_Qt_6_9_3-Debug/CMakeFiles/rebuild_cache.dir
+/home/vboxuser/WorkSpace/Machine_Vision_Course/Qt_Projects/1st_Projects/show_image/build/Desktop_Qt_6_9_3-Debug/CMakeFiles/list_install_components.dir
+/home/vboxuser/WorkSpace/Machine_Vision_Course/Qt_Projects/1st_Projects/show_image/build/Desktop_Qt_6_9_3-Debug/CMakeFiles/install.dir
+/home/vboxuser/WorkSpace/Machine_Vision_Course/Qt_Projects/1st_Projects/show_image/build/Desktop_Qt_6_9_3-Debug/CMakeFiles/install/local.dir
+/home/vboxuser/WorkSpace/Machine_Vision_Course/Qt_Projects/1st_Projects/show_image/build/Desktop_Qt_6_9_3-Debug/CMakeFiles/install/strip.dir
+/home/vboxuser/WorkSpace/Machine_Vision_Course/Qt_Projects/1st_Projects/show_image/build/Desktop_Qt_6_9_3-Debug/CMakeFiles/show_image_autogen_timestamp_deps.dir
+/home/vboxuser/WorkSpace/Machine_Vision_Course/Qt_Projects/1st_Projects/show_image/build/Desktop_Qt_6_9_3-Debug/CMakeFiles/show_image_autogen.dir

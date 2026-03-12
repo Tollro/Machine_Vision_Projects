@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_show_image_FILE /home/vboxuser/WorkSpace/Machine_Vision_Course/Qt_Projects/1st_Projects/show_image/build/Desktop_Qt_6_9_3-Debug/show_image)
+set(__QT_DEPLOY_TARGET_show_image_TYPE EXECUTABLE)
