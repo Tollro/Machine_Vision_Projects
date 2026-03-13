@@ -1,0 +1,1 @@
+主要功能都在mainwindow.cpp文件中
